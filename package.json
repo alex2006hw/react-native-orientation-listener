@@ -1,7 +1,7 @@
 {
   "name": "react-native-orientation-listener",
-  "version": "0.0.4",
-  "description": "A react-native library for obtaining current device orientation",
+  "version": "0.0.8",
+  "description": "A react-native library for obtaining current device orientation patched from https://github.com/walmartlabs/react-native-orientation-listener.git",
   "main": "index.js",
   "keywords": [
     "react-native",
@@ -10,11 +10,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/walmartreact/react-native-orientation-listener.git"
+    "url": "https://github.com/alex2006hw/react-native-orientation-listener"
   },
   "author": "Ken Wheeler",
   "license": "MIT",
   "peerDependencies": {
-    "react-native": ">=0.5"
+    "react-native": "0.35.0"
   }
 }
